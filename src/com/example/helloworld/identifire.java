@@ -1,4 +1,4 @@
-package com.example.helloworld.identifire;
+package com.example.helloworld;
 
 public class identifire {
     public static void main(String[] args) {
