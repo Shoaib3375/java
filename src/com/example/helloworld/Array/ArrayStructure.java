@@ -1,4 +1,4 @@
-package com.example.helloworld.fiveChapter;
+package com.example.helloworld.Array;
 
 public class ArrayStructure {
     public static void main(String[] args) {

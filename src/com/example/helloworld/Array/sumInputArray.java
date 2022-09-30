@@ -1,4 +1,4 @@
-package com.example.helloworld.fiveChapter;
+package com.example.helloworld.Array;
 
 import java.util.Scanner;
 

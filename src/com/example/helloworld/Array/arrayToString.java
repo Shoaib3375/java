@@ -1,7 +1,4 @@
-package com.example.helloworld.fiveChapter;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package com.example.helloworld.Array;
 
 public class arrayToString {
     public static void main(String[] args) {
