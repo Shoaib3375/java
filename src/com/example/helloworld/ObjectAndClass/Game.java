@@ -63,7 +63,7 @@ public class Game {
         System.out.println();
     }
     private boolean askUserToPlayAgain(){
-        System.out.println("Want to paly again? if, " + "Please type Yes, otherwise type anything exit");
+        System.out.println("Want to play again? if, " + "Please type Yes, otherwise type anything exit");
     return input.nextLine().toUpperCase().contains("YES");
     }
     private char askforUserInput(){
