@@ -1,4 +1,4 @@
-package com.example.helloworld.OOP.abtraction;
+package com.example.helloworld.OOP.Inheritance;
 
 public class Dimension {
     private final int height;
