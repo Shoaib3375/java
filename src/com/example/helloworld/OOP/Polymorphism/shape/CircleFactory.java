@@ -1,4 +1,4 @@
-package com.example.helloworld.OOP.Inheritance.shape;
+package com.example.helloworld.OOP.Polymorphism.shape;
 
 public class CircleFactory extends ShapeFactory{
     @Override
