@@ -1,4 +1,4 @@
-package com.example.helloworld.OOP.Polymorphism.shape;
+package com.example.helloworld.OOP.Inheritance.shape;
 
 public class ShapeFactory {
     public Shape newShape(String type){
