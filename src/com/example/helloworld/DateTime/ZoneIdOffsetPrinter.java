@@ -14,7 +14,7 @@ public class ZoneIdOffsetPrinter {
             ZonedDateTime zonedDateTime = now.atZone(id);
             ZoneOffset zoneOffset = zonedDateTime.getOffset();
             String offset = zoneOffset.getId().replaceAll("Z","+00:00");
-            System.out.printf("%35s (UTC%s) %n", id.toString(), offset);
+            System.out.printf("%35s (UTC%s) %n", id, offset);
         }
 
     }
