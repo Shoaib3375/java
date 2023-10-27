@@ -1,7 +1,5 @@
 package com.example.helloworld.StringMathApiUtilityClass;
 
-import com.sun.jdi.ClassObjectReference;
-
 public class StringMethod {
     public static void main(String[] args) {
         String text = "Lorem ipsu dolor sit amet.";
