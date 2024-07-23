@@ -17,7 +17,7 @@ public class HashMapExample2 {
         addressBook.put(person1, address);
         addressBook.put(person2, address);
 
-//        addressBook.put(person, address);
+        addressBook.put(person, address);
         System.out.println(addressBook);
     }
 }

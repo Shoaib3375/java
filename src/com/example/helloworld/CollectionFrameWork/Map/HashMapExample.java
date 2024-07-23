@@ -17,6 +17,7 @@ public class HashMapExample {
         citiesWithPopulation.put("Istanbul", 15_519_267);
 
         Integer population = citiesWithPopulation.get("Dhaka");
+        System.out.println("Population of Dhaa = " + population);
         Set<String> keys = citiesWithPopulation.keySet();
         Collection<Integer> values = citiesWithPopulation.values();
 

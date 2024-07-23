@@ -25,7 +25,7 @@ public class FileChannelReadExample {
                 buffer.clear();
             }
         }catch (IOException e){
-            e.printStackTrace();
+            e.fillInStackTrace();
         }
 
     }
